@@ -1,4 +1,4 @@
-# loading the pet and creating ann object
+# loading the pet and creating an object
 from pet import Pet
 
 # creating a pet
