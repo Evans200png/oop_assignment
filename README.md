@@ -27,25 +27,25 @@ Submit a GitHub repo or a zipped folder with your code and a screenshot of the o
 
 ## ✅ Sample Output
 
-Creating pet: Kim
-Kim is eating...
-Kim is playing...
-Kim is sleeping...
-Kim's current status:
-Hunger: 3
-Energy: 7
-Happiness: 9
-Tricks: ['roll over', 'sits']
+###### Creating pet: Kim
+###### Kim is eating...
+###### Kim is playing...
+###### Kim is sleeping...
+###### Kim's current status:
+###### Hunger: 3
+###### Energy: 7
+###### Happiness: 9
+###### Tricks: ['roll over', 'sits']
 
 
 ### 💡 Tips
-Use max() and min() to keep values between 0 and 10.
+###### Use max() and min() to keep values between 0 and 10.
 
-Think about edge cases like trying to play when energy is 0.
+###### Think about edge cases like trying to play when energy is 0.
 
 ### 🏁 Submission
-Deadline: [Set your date]
+###### Deadline: [Set your date]
 
-Submission format: clone / fork this repo
+###### Submission format: clone / fork this repo
 
-Bonus points for creativity (custom actions, emojis, pet types, etc.)
+###### Bonus points for creativity (custom actions, emojis, pet types, etc.)
